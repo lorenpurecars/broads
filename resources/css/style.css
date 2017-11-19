@@ -4,7 +4,7 @@ body {
 }
 
 .header {
-  background-image: url(/Users/lorenpalmer/broads/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 a {
@@ -36,7 +36,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url(/Users/lorenpalmer/broads/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 .footer {
